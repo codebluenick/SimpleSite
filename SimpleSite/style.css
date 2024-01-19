@@ -88,3 +88,10 @@ header{
     color: var(--bg-color);
     transition: background 0.5s;
 }
+/*Menu icon fix*/
+#menu-icon{
+    font-size: 2px;
+    cursor: pointer;
+    z-index: 10001;
+    display: none;
+}
