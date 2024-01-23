@@ -100,20 +100,20 @@ header{
     display: none;
 }
 /*Home section container styles*/
-.container{
+/* .container{
     position: relative;
     width: 100%;
     min-height: 640px;
     display: flex;
     align-items: center;
-    background: url(images/profile.jpg);
+    background: url(images/home-container.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .container img{
-    width: 100px;
+    width: 400px;
     position: absolute;
     bottom: -500px;
     right: 200px;
-}
+} */
