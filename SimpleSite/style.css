@@ -100,20 +100,15 @@ header{
     display: none;
 }
 /*Home section container styles*/
-/* .container{
+.container{
+    margin-top: 80px; 
     position: relative;
     width: 100%;
-    min-height: 640px;
+    min-height: 240px;
     display: flex;
     align-items: center;
     background: url(images/home-container.jpg);
-    background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    overflow: hidden;
 }
-.container img{
-    width: 400px;
-    position: absolute;
-    bottom: -500px;
-    right: 200px;
-} */
